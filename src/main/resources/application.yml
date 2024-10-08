@@ -1,0 +1,6 @@
+curator:
+  retryCount: 5
+  elapsedTimeMs: 5000
+  connectionString: localhost:2181
+  sessionTimeoutMs: 60000
+  connectionTimeoutMs: 4000
